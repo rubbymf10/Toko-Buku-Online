@@ -412,7 +412,7 @@ const BookstoreEcommerce = () => {
                 tepat waktu."
               </p>
               <footer className="font-semibold text-indigo-600">
-                – rubby, Surabaya
+                – hera, Sukabumi 
               </footer>
             </blockquote>
           </div>
